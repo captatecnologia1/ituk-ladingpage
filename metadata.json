@@ -1,0 +1,5 @@
+{
+  "name": "iTuk-Beta",
+  "description": "A high-conversion, responsive landing page for the iTuk application. The goal of the page is to perform a Smoke Test, capturing Name, WhatsApp, and Email of professionals from the Beauty and Health segments interested in subscribing to the app's paid plans.",
+  "requestFramePermissions": []
+}
